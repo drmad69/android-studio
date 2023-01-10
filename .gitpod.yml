@@ -1,6 +1,2 @@
 image: phlummox/android-studio:latest
 file: .gitpod.Dockerfile
-
-ports:
-  - port: 6080
-    protocol: "http"
